@@ -20,3 +20,5 @@ tags:
   - ΜΙΤ
   - Counterpath
 ---
+
+{% include bio-montfort.md %}
