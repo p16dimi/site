@@ -1,7 +1,7 @@
 ---
 author: p16dimi
 title: Nick Montfort 
-image_url: /images/nmontfort.jpg
+image_url: /images/ibm-pc.jpg
 caption: Ο Nick Montfort είναι ποιητής και καθηγητής ψηφιακών μέσων στο MIT, όπου διευθύνει ένα εργαστήριο που ονομάζεται The Trope Tank. Είναι επίσης εκδότης της computer-generated σειράς βιβλίων Using Electricity τα οποία δημιουργούνται από υπολογιστή από το Counterpath. Αναπτύσσει ψηφιακά έργα τέχνης για γκαλερί και εκτελεί livecoding για παραγωγή οπτικοποιήσεων για μουσικούς.
 categories:
   - Ψηφιακά Μέσα
